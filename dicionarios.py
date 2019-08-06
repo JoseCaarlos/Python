@@ -236,8 +236,5 @@ print(veja)
 
 
 """
-
-
-
-
+print("olá")
 
