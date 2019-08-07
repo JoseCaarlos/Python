@@ -9,6 +9,13 @@ entrada -> Processamento -> Saída
 
 """
 
-def fat(n):
-    i = 1
-    while(i < n)
+def nome_completo(nome, sobrenome): # Neste momento essas variáveis chama-se PARÂMETRO
+    print(f"{nome} {sobrenome}")
+    return
+nome = 'José'
+
+sobrenome = 'Carlos'
+
+nome_completo(sobrenome=sobrenome, nome=nome) # Já aqui essas variáveis chama-se ARGUMENTO
+
+
