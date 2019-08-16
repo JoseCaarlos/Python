@@ -1,22 +1,26 @@
 """
 Listas
 
-Listas em python funcionam como vetores, matrizes (arrays) em outras linguagens, com diferença
-de ser DINÂMICO e também podemos colocar QUALQUER TIPO DE DADOS
 
-- Dinâmico: Não possui tamanho fixo: ou seja, criar a lista e ir adicionando elementos;
+List in Python it works as vectors, matrices (Arrays) in others languages, with different
+
+of be Dynamic and also we can put any type date.
+
+- Dynamic: No has length fixed: That is, create list and go adding elements;
 - Qualquer tipo de dado: Não possuem tipo de dado fixo, ou seja, podemos colocar qualquer tipo de dado
+- Any type data: No has type data fixed, that is we can put any type data.
 
-As lista em python são representadas por colchetes []
+The list in python are represented by square brackets [].
 
 
-lista1.sort() # Ordena a lista
+lista1.sort() # Sort list
 lista2.sort()
 
-# Conta número de ocorrências em uma lista
+# Count numbers of occurrence in a list
 print(lista2.count('o'))
 
 # Adicionar elementos na lista utilizando a função a append
+# Add elements in list using the function append.
 # Com o append nós so conseguimos adicionar um elemento por vez
 
 print(lista1)
