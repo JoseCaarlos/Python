@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec92bb18-effb-4555-946e-ecab9d01c5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension_pt2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listas_aninhadas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/JOSE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/JOSE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/args.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conjuntos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/default_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/definindo_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deque.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary_comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir and help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docstrings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcoes_com_parametro_padrao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcoes_com_parametros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcoes_com_retorno.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else_elif.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kwargs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_comprehension_pt2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas_aninhadas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop_for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/named_tuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/none.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pep8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/set_comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuplas.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,14 +51,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1OqVtKca3PwuQmo8ZzEvNEbiwFj" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -53,8 +80,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listas_aninhadas">
-    <configuration name="args" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.zip">
+    <configuration name="Min e Max" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Min e Max.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="len-abs-sum-round" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/len-abs-sum-round.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reversed" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reversed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_comprehension_pt2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_comprehension_pt2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas_aninhadas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listas_aninhadas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,14 +188,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.listas_aninhadas" />
-        <item itemvalue="Python.list_comprehension_pt2" />
-        <item itemvalue="Python.list_comprehension" />
-        <item itemvalue="Python.kwargs" />
-        <item itemvalue="Python.args" />
+        <item itemvalue="Python.zip" />
+        <item itemvalue="Python.len-abs-sum-round" />
+        <item itemvalue="Python.reversed" />
+        <item itemvalue="Python.Min e Max" />
+        <item itemvalue="Python.sorted" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="1" BundledDictionary0="english.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
