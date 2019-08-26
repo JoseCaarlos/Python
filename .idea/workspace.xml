@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec92bb18-effb-4555-946e-ecab9d01c5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/cesta1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/modos_abertura_arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/sistema_arquivos_manipulacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/sistema_arquivos_navegacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/stringIO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
