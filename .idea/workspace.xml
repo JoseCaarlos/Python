@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec92bb18-effb-4555-946e-ecab9d01c5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/Dunder Main e Dunder Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/Módulos Customizados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/O Módulo Random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/geek/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/geek/geek1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/geek/geek2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/geek/university/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/geek/university/geek3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/geek/university/geek4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/modulos_builtin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/modulos_externos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/pacotes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/primeiro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/segundo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/Leitura de Arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/bloco_with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/seek_e_cursors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/cesta1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/modos_abertura_arquivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/sistema_arquivos_manipulacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/sistema_arquivos_navegacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/stringIO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -58,6 +45,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JOSE\PycharmProjects\ppe\Seção 13 - Leitura e Escrita em Arquivos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JOSE\PycharmProjects\ppe\Seção 12 - Módulos e pacotes" />
       <recent name="C:\Users\JOSE\PycharmProjects\ppe\Seção 04 - Variáveis e Tipos de Dados" />
@@ -75,29 +65,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bloco_with">
-    <configuration name="Dunder Main e Dunder Name" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ppe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 12 - Módulos e pacotes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/Dunder Main e Dunder Name.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Leitura de Arquivos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sistema_arquivos_manipulacao">
+    <configuration name="escrevendo_em_arquivos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/Leitura de Arquivos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bloco_with" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="modos_abertura_arquivos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/bloco_with.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/modos_abertura_arquivos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seek_e_cursors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sistema_arquivos_manipulacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/seek_e_cursors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/sistema_arquivos_manipulacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="segundo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sistema_arquivos_navegacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +137,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 12 - Módulos e pacotes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 12 - Módulos e pacotes/segundo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/sistema_arquivos_navegacao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stringIO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/stringIO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bloco_with" />
-        <item itemvalue="Python.seek_e_cursors" />
-        <item itemvalue="Python.Leitura de Arquivos" />
-        <item itemvalue="Python.Dunder Main e Dunder Name" />
-        <item itemvalue="Python.segundo" />
+        <item itemvalue="Python.sistema_arquivos_manipulacao" />
+        <item itemvalue="Python.sistema_arquivos_navegacao" />
+        <item itemvalue="Python.stringIO" />
+        <item itemvalue="Python.modos_abertura_arquivos" />
+        <item itemvalue="Python.escrevendo_em_arquivos" />
       </list>
     </recent_temporary>
   </component>
