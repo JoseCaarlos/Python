@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec92bb18-effb-4555-946e-ecab9d01c5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/cesta1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/modos_abertura_arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/sistema_arquivos_manipulacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/sistema_arquivos_navegacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/stringIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seção 14 - Iteradores e Geradores Python/entendendo_iterators_e_iteraveis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +60,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sistema_arquivos_manipulacao">
-    <configuration name="escrevendo_em_arquivos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.entendendo_iterators_e_iteraveis">
+    <configuration name="entendendo_iterators_e_iteraveis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 14 - Iteradores e Geradores Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 13 - Leitura e Escrita em Arquivos/escrevendo_em_arquivos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 14 - Iteradores e Geradores Python/entendendo_iterators_e_iteraveis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.entendendo_iterators_e_iteraveis" />
         <item itemvalue="Python.sistema_arquivos_manipulacao" />
         <item itemvalue="Python.sistema_arquivos_navegacao" />
         <item itemvalue="Python.stringIO" />
         <item itemvalue="Python.modos_abertura_arquivos" />
-        <item itemvalue="Python.escrevendo_em_arquivos" />
       </list>
     </recent_temporary>
   </component>
