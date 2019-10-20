@@ -91,13 +91,15 @@ print(show_names(**names))
 """
 
 
-def sum_multiple_number(a, b, c, **kwargs):
+def sum_multiple_number(a, b, c, *args, **kwargs):
+    print(args)
+    print(kwargs)
     print(a + b + c)
 
 list = [1, 2, 3]
 tuple = (1, 2, 3)
 set = {1, 2, 3}
-sum_multiple_number(*list)
+sum_multiple_number(*list,[1,2,3],test='ss')
 sum_multiple_number(*tuple)
 sum_multiple_number(*set)
 

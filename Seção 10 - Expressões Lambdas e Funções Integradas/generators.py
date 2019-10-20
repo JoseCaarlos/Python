@@ -72,10 +72,4 @@ for num in gen:
     print(num)
 
 
-
-
-
 """
-
-
-
