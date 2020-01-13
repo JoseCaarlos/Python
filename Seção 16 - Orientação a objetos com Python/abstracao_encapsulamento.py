@@ -1,44 +1,50 @@
 """
 POO - Abstração e Encapsulamento
 
-Grande Objeto da POO é encapsular nosso código dentro de um grupo lógico e hierárquico utilizando classes.
+O grande objetivo da POO é encapsualar nesse código dentro de um grupo lógico e hierarquico utilizavel
+classes.
 
-Encapsular -> Capsula
+Encapsular -> Cápsula
 
-        Classe
-----------------------
-/                    /
-/    Atributos       /
-/    Métodos         /
-_____________________
+# Relembrando Atributos/Métodos privados em Pyhton
 
-$ Relembrando Atributos/Métodos privados em Python
-
-Imagine que temos uma classe chamada Pessoa, contendo um atributo
-privado chamado __nome é um método privado
+Imagine que temos uma classe chamada Pessoa, contendo um
+atributo privado chamado __nome e um método privado
 chamado __falar()
 
-Esse elementos privados só devem/deveriam ser acessdos dentro da classe. Mas o Python não o bloqueia este acesso
-fora da classe. Com python acontece o fenômeno chamado Name Manglin, que faz uma alteração na forma de se
-acessar os elementos privados, conforme:
+Para poder acessar fora da classe utiliza-se o comando
 
-_Clase__elemento
+_Classe__elemento
 
 Exemplo - Acessando elementos privados fora da classe:
 
-instância._Pessoa__nome
-instância._Pessoa__falar()
+instancia._Pessoa__nome
 
-Abstração, em POO, é o fato de expor apenas dados relevantes de uma classe, escondendo atributos e métodos
-privados de usuário.
+instancia._Pessoa__falar()
+
+Abstração, em POO, é o ato de expor dados relevantes de uma classe, escondendo atributos e métodos
+privados de Usuário.
 
 print(conta1.__dict__)
-conta1.depositar(-300)
+
+conta1.extrato()
+
+print(conta1._Conta__titular)  # Name Mangling
+
+conta1._Conta__titular = 'Angelina'
+
 print(conta1.__dict__)
 
-conta1.sacar(2000)
+print(conta1.__dict__)
+
+conta1.depositar(-150)
+
+conta1.sacar(15000)
+
+print(conta1.__dict__)
 
 """
+
 
 class Conta:
 
@@ -59,35 +65,32 @@ class Conta:
             self.__saldo += valor
         else:
             print('O valor precisa ser positivo')
-
     def sacar(self, valor):
         if valor > 0:
-            if self.__saldo >= valor :
-                self.__saldo -= valor
-            else:
-                print('O valor de saque é maior que seu SALDO DISPONIVEL')
-        else:
-            print('O valor precisa ser positivo')
-
-    def transferencia(self, valor, conta):
-        if valor > 0:
             if self.__saldo >= valor:
-                conta.__saldo += valor
                 self.__saldo -= valor
-
             else:
-                print('O valor de transferência é maior que seu SALDO DISPONIVEL')
+                print('Saldo insuficiente')
+                print('O valor precisa ser positivo')
         else:
-            print('O valor precisa ser positivo')
+            print('O valor deve ser positivo')
+    def transferir(self, valor, conta_destino):
+        # 1 - Remover o valor da conta de origem
+        self.__saldo -= valor
+        self.__saldo -= 10  # Taxa de transferência paga por quem realizou a transferência
 
+
+        # 2 - Adicionar o valor na conta de destino
+        conta_destino.__saldo += valor
 
 # Testando
-
 conta1 = Conta('Geek', 150.00, 1500)
-conta2 = Conta('Felicity', 150.00, 1500)
+conta1.extrato()
 
-conta1.transferencia(100, conta2)
+conta2 = Conta('Felicity', 300, 2000)
+conta2.extrato()
 
-print(conta1.__dict__)
-print(conta2.__dict__)
+conta2.transferir(100, conta1)
 
+conta1.extrato()
+conta2.extrato()
